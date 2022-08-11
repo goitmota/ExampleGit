@@ -7,7 +7,8 @@ Cambios desde Github
 
 Cambio en rama Develop
 
-cambio dos en la rama Developi
 
+cambio dos en la rama Develop
 
-Cambio en Rama Main
+cambio en rama develop
+
